@@ -38,7 +38,9 @@ bing_verify:
 timezone:    Asia/Shanghai
 future:      true
 highlighter: rouge
-markdown:    kramdown
+markdown:    redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 gems:
     - jekyll-sitemap
     - jekyll-paginate
