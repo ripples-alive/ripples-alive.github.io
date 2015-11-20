@@ -1,34 +1,41 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+    feature: abstract-5.jpg
 comments: false
-modified: 2014-12-24
+modified: 2015-11-20
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+<h2 align="center">
+世间本只有愿不愿意，何来值不值得
+</h2>
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+我喜欢宁静，喜欢不用说话就有的安全感，喜欢突然想到就去做的快乐。但是这个世界给我的只有宣泄，我明白了一句话，我不是在为自己活着，而是为身边人的活着。这不是应该肩负起的责任，而是灵魂上的枷锁……
 
-## What HPSTR brings to the table:
+最了解一个人的，是自己，可是，最不了解一个人的，也是自己，身在其中，便再难以一种平常心来看待一切
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+环境影响着一个人的性格，我也不会例外，从小带着枷锁努力奔跑，让我在很多地方已经悄然定形。尽管现在不想再有羁绊，可带了这么久的枷锁，想放下又谈何容易……
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+从数学走向coding，再到现在，更渴望安全，一路走来，有些事是自己决定，可又有更多是没有选择的选择……
 
-[^1]: Example: *domain.com/category-name/post-title*
+得失心如此之重的我，也为此付出了太多的代价，一次次告诉自己要放下，终极都是无济于事，或许哪天真的能放下了，也就解脱了……
+
+不懂音乐的我能对一句又一句歌词念念不忘，不懂诗词的我能对一句又一句诗句念念不忘，不懂文学的我能对一句又一句名言念念不忘，无非都是因为一次次被触动心扉。不论如何给自己包裹上一层又一层的铠甲与伪装，都改变不了脆弱的内心，稍有不慎，就能在一瞬间七零八碎，玻璃心的我在这无情的世界终究只能是苟延残喘……
+
+一些人、一些事，总是不经意间出现在我的脑海里挥之不去，总能让我死水般平静的心泛起涟漪，总会让我心甘情愿的变成一个疯子，那时的我，或许早已不是我，可那仍是我……
+
+我习惯了等待，等待奇迹也好，等待放弃也罢，其实等待真的与时间无关，它只是一种习惯，它自由生长，而我无力抵抗……
+
+<pre align="center">
+<code>
+曾经亲手盖过一栋漂亮的房子
+突然有一天莫名其妙的崩塌
+露出了地基下的森森白骨
+我又亲手清理了破碎的砖瓦
+却不敢再盖房子，只能种上鲜花
+每年花开的时候，我都会来这里
+别人都以为我在看花
+其实我看到的只有白骨
+</code>
+</pre>
