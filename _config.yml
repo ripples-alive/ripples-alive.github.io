@@ -55,7 +55,7 @@ permalink:   /:categories/:title/
 paginate: 5
 
 # Read more
-excerpt_separator: '<!--more-->'
+excerpt_separator: '<p id="read-more-anchor"/>'
 
 kramdown:
     input: GFM

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 路由折腾记
+title: 路由折腾记 第一弹
 modified: 2015-11-21T09:12:29+08:00
 categories: technology
-description:
+description: 配置寝室路由，通过内网服务器接通外网，同时配置智能翻墙、广告过滤等。
 tags: [router, OpenWrt]
 image:
     feature:
@@ -11,7 +11,7 @@ image:
     creditlink:
 comments:
 share:
-date: 2015-10-27
+date: 2015-10-20
 ---
 
 ## 准备工作
@@ -30,7 +30,7 @@ date: 2015-10-27
 
 配置的时候，网上各种资料参考来参考去，最后大概还是参考这个[教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/)来做的。
 
-<!--more-->
+<p id="read-more-anchor"/>
 
 ## 自启动脚本
 

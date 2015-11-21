@@ -1,0 +1,33 @@
+#read-more-anchor:target {
+    position: relative;
+    top: -100px;
+    z-index: -100;
+    height: 0;
+}
+
+.read-more-footer-wrap {
+    position: relative;
+    height: 0;
+    padding: 0;
+
+    .read-more-footer {
+        position: absolute;
+        top: -5px;
+        left: 0;
+        right: 0;
+        height: 35px;
+        text-align: center;
+
+        .btn {
+            line-height: 1.25;
+            margin-bottom: 0;
+        }
+    }
+}
+
+#post-index {
+    article.hentry {
+        padding-bottom: 15px;
+        margin-bottom: 45px;
+    }
+}

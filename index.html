@@ -35,8 +35,13 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {{ post.excerpt }}
   </div><!-- /.entry-content -->
+  <div class="read-more-footer-wrap">
+    <div class="read-more-footer">
+      <a href="{{ site.url }}{{ post.url }}#read-more-anchor" class="btn">Read More</a>
+    </div><!-- /.read-more-footer -->
+  </div>
 </article><!-- /.hentry -->
 {% endfor %}
 
