@@ -24,13 +24,13 @@ date: 2015-10-27
 
 首先，不解释的刷了 OpenWrt（好吧，我也是第一次玩路由，只是听说这个好，也适合折腾），我是买的个 WNDR4300，然后在官网下的[固件](http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/nand/openwrt-15.05-ar71xx-nand-wndr4300-ubi-factory.img)，其中 ar71xx 是主控，nand 是 flash 型号。
 
-
-
 刷完固件，接下来就是装软件，在 sourceforge 上找到[这个](http://openwrt-dist.sourceforge.net)，由于路由器没有接入网络，我是直接在所给源的页面直接下载了 scp 到路由器，然后通过 `opkg install package-name.ipk` 安装。
 
 然后其中那个 shadowsocks-libev-spec 是在是用不习惯，因为需求比较复杂，shadowsocks-libev-spec 不适合灵活的修改，所以最后还是用的 shadowsocks-libev。
 
 配置的时候，网上各种资料参考来参考去，最后大概还是参考这个[教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/content/)来做的。
+
+<!--more-->
 
 ## 自启动脚本
 
