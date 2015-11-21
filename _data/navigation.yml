@@ -1,1 +1,7 @@
 # Menu navigation links
+
+- title: My Story
+  url: /about/
+
+- title: Message Board
+  url: /messages/
