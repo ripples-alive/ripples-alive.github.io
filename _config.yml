@@ -52,7 +52,7 @@ sass:
 permalink:   /articles/:year/:month/:day/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 # Read more
 excerpt_separator: '<p id="read-more-anchor"/>'
