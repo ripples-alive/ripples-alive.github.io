@@ -2,7 +2,7 @@
 title: ucore 操作系统实验 lab4
 author: Ripples
 layout: post
-permalink: /2014/11/20/ucore-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e5%ae%9e%e9%aa%8c-lab4/
+permalink: /ucore-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e5%ae%9e%e9%aa%8c-lab4/
 views:
   - 402
 categories:

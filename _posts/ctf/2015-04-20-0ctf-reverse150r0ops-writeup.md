@@ -2,6 +2,7 @@
 title: 0CTF Reverse150(r0ops) WriteUp
 author: Ripples
 layout: post
+permalink: /0ctf-reverse150r0ops-writeup/
 views:
   - 267
 categories:

@@ -2,6 +2,7 @@
 title: OverTheWire Narnia WriteUp
 author: Ripples
 layout: post
+permalink: /overthewire-narnia-writeup/
 views:
   - 320
 categories:

@@ -2,6 +2,7 @@
 title: SCTF Code200 WriteUp
 author: Ripples
 layout: post
+permalink: /sctf-code200-writeup/
 views:
   - 245
 categories:

@@ -2,6 +2,7 @@
 title: ACTF2015 小记
 author: Ripples
 layout: post
+permalink: /actf2015%e5%b0%8f%e8%ae%b0/
 views:
   - 768
 categories:

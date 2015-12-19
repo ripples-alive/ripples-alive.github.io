@@ -2,6 +2,7 @@
 title: SCTF Misc100 WriteUp
 author: Ripples
 layout: post
+permalink: /sctf-misc100-writeup/
 views:
   - 253
 categories:

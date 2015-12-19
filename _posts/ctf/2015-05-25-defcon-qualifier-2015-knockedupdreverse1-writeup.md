@@ -2,6 +2,7 @@
 title: Defcon qualifier 2015 knockedupd(reverse1) WriteUp
 author: Ripples
 layout: post
+permalink: /defcon-qualifier-2015-knockedupdreverse1-writeup/
 views:
   - 319
 categories:

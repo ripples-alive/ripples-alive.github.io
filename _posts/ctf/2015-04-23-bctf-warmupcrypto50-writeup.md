@@ -2,6 +2,7 @@
 title: BCTF warmup(Crypto50) WriteUp
 author: Ripples
 layout: post
+permalink: /bctf-warmupcrypto50-writeup/
 views:
   - 430
 categories:

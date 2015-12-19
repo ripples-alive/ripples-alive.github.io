@@ -2,7 +2,7 @@
 title: WordPress评论被回复自动邮件提醒
 author: Ripples
 layout: post
-permalink: /2014/10/12/wordpress%e8%af%84%e8%ae%ba%e8%a2%ab%e5%9b%9e%e5%a4%8d%e8%87%aa%e5%8a%a8%e9%82%ae%e4%bb%b6%e6%8f%90%e9%86%92/
+permalink: /wordpress%e8%af%84%e8%ae%ba%e8%a2%ab%e5%9b%9e%e5%a4%8d%e8%87%aa%e5%8a%a8%e9%82%ae%e4%bb%b6%e6%8f%90%e9%86%92/
 views:
   - 377
 categories:

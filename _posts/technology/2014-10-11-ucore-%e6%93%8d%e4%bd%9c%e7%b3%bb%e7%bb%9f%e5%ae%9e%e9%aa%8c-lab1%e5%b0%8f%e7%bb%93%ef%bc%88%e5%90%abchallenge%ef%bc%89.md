@@ -2,7 +2,7 @@
 title: ucore 操作系统实验 lab1小结（含Challenge）
 author: Ripples
 layout: post
-permalink: /2014/10/11/ucore-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e5%ae%9e%e9%aa%8c-lab1%e5%b0%8f%e7%bb%93%ef%bc%88%e5%90%abchallenge%ef%bc%89/
+permalink: /ucore-%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e5%ae%9e%e9%aa%8c-lab1%e5%b0%8f%e7%bb%93%ef%bc%88%e5%90%abchallenge%ef%bc%89/
 views:
   - 1094
 categories:

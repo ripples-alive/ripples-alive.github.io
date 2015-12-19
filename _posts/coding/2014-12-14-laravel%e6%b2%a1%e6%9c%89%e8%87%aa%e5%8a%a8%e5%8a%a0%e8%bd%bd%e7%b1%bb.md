@@ -2,7 +2,7 @@
 title: Laravel 没有自动加载类
 author: Ripples
 layout: post
-permalink: /2014/12/14/laravel%e6%b2%a1%e6%9c%89%e8%87%aa%e5%8a%a8%e5%8a%a0%e8%bd%bd%e7%b1%bb/
+permalink: /laravel%e6%b2%a1%e6%9c%89%e8%87%aa%e5%8a%a8%e5%8a%a0%e8%bd%bd%e7%b1%bb/
 views:
   - 335
 categories:

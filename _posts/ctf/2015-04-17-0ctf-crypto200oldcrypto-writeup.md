@@ -2,6 +2,7 @@
 title: 0CTF Crypto200(oldcrypto) WriteUp
 author: Ripples
 layout: post
+permalink: /0ctf-crypto200oldcrypto-writeup/
 views:
   - 273
 categories:

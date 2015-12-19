@@ -2,7 +2,7 @@
 title: WordPress 上文章添加转载申明
 author: Ripples
 layout: post
-permalink: /2014/08/22/wordpress%e4%b8%8a%e6%96%87%e7%ab%a0%e6%b7%bb%e5%8a%a0%e8%bd%ac%e8%bd%bd%e7%94%b3%e6%98%8e/
+permalink: /wordpress%e4%b8%8a%e6%96%87%e7%ab%a0%e6%b7%bb%e5%8a%a0%e8%bd%ac%e8%bd%bd%e7%94%b3%e6%98%8e/
 views:
   - 332
 categories:

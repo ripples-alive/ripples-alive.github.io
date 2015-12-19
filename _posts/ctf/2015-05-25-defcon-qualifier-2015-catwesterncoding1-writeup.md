@@ -2,6 +2,7 @@
 title: Defcon qualifier 2015 catwestern(Coding1) WriteUp
 author: Ripples
 layout: post
+permalink: /defcon-qualifier-2015-catwesterncoding1-writeup/
 views:
   - 270
 categories:

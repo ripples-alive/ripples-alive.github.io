@@ -2,6 +2,7 @@
 title: OverTheWire Vertex Level 11 → Level 12
 author: Ripples
 layout: post
+permalink: /overthewire-vertex-level-11/
 views:
   - 224
 categories:

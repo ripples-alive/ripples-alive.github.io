@@ -2,6 +2,7 @@
 title: SSCTF Crack类 第一题
 author: Ripples
 layout: post
+permalink: /ssctf-crack%e7%b1%bb-%e7%ac%ac%e4%b8%80%e9%a2%98/
 views:
   - 361
 categories:

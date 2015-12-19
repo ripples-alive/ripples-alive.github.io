@@ -2,6 +2,7 @@
 title: OverTheWire Krypton Level 2 → Level 3
 author: Ripples
 layout: post
+permalink: /overthewire-krypton-level-3/
 views:
   - 276
 categories:

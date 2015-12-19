@@ -2,6 +2,7 @@
 title: SCTF PWN300 WriteUp
 author: Ripples
 layout: post
+permalink: /sctf-pwn300-writeup/
 views:
   - 373
 categories:

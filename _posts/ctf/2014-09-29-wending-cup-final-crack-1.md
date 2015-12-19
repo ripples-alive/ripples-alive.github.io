@@ -2,6 +2,7 @@
 title: 中软吉大•问鼎杯决赛破解类（一）
 author: Ripples
 layout: post
+permalink: /%e4%b8%ad%e8%bd%af%e5%90%89%e5%a4%a7%e2%80%a2%e9%97%ae%e9%bc%8e%e6%9d%af%e5%86%b3%e8%b5%9b%e7%a0%b4%e8%a7%a3%e7%b1%bb%ef%bc%88%e4%b8%80%ef%bc%89/
 views:
   - 493
 categories:

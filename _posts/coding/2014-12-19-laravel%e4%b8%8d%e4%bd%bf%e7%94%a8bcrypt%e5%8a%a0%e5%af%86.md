@@ -2,7 +2,7 @@
 title: Laravel不使用Bcrypt加密
 author: Ripples
 layout: post
-permalink: /2014/12/19/laravel%e4%b8%8d%e4%bd%bf%e7%94%a8bcrypt%e5%8a%a0%e5%af%86/
+permalink: /laravel%e4%b8%8d%e4%bd%bf%e7%94%a8bcrypt%e5%8a%a0%e5%af%86/
 views:
   - 466
 categories:

@@ -2,7 +2,7 @@
 title: Mac OS X python Tab补全
 author: Ripples
 layout: post
-permalink: /2015/06/23/mac-os-x-python-tab%e8%a1%a5%e5%85%a8/
+permalink: /mac-os-x-python-tab%e8%a1%a5%e5%85%a8/
 views:
   - 343
 categories:

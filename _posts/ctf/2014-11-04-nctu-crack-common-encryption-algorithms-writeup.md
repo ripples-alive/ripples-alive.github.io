@@ -2,6 +2,7 @@
 title: NCTU Crack Common encryption algorithms 解题报告
 author: Ripples
 layout: post
+permalink: /nctu-crack-common-encryption-algorithms-%e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a/
 views:
   - 338
 categories:

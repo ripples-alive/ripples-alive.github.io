@@ -2,6 +2,7 @@
 title: 0CTF Misc300(PolyQuine) WriteUp
 author: Ripples
 layout: post
+permalink: /0ctf-misc300polyquine-writeup/
 views:
   - 271
 categories:

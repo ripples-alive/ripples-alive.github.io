@@ -2,7 +2,7 @@
 title: shadowsocks 配置优化折腾小记
 author: Ripples
 layout: post
-permalink: /2015/06/10/shadowsocks%e9%85%8d%e7%bd%ae%e4%bc%98%e5%8c%96%e6%8a%98%e8%85%be%e5%b0%8f%e8%ae%b0/
+permalink: /shadowsocks%e9%85%8d%e7%bd%ae%e4%bc%98%e5%8c%96%e6%8a%98%e8%85%be%e5%b0%8f%e8%ae%b0/
 views:
   - 1608
 categories:

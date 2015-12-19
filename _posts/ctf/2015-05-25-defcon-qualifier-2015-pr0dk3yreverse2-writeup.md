@@ -2,6 +2,7 @@
 title: Defcon qualifier 2015 pr0dk3y(reverse2) WriteUp
 author: Ripples
 layout: post
+permalink: /defcon-qualifier-2015-pr0dk3yreverse2-writeup/
 views:
   - 384
 categories:

@@ -2,6 +2,7 @@
 title: OverTheWire Vertex Level 7 → Level 8
 author: Ripples
 layout: post
+permalink: /overthewire-vertex-level-7/
 views:
   - 617
 categories:

@@ -2,6 +2,7 @@
 title: Geek Game 2015 小记
 author: Ripples
 layout: post
+permalink: /geek-game-2015-%e5%b0%8f%e8%ae%b0/
 views:
   - 529
 categories:

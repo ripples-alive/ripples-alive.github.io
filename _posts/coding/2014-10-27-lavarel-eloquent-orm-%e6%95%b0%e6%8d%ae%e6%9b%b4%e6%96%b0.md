@@ -2,7 +2,7 @@
 title: Laravel Eloquent ORM 数据更新
 author: Ripples
 layout: post
-permalink: /2014/10/27/lavarel-eloquent-orm-%e6%95%b0%e6%8d%ae%e6%9b%b4%e6%96%b0/
+permalink: /lavarel-eloquent-orm-%e6%95%b0%e6%8d%ae%e6%9b%b4%e6%96%b0/
 views:
   - 511
 categories:

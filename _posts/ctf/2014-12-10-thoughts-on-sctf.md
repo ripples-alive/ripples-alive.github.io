@@ -2,6 +2,7 @@
 title: SCTF小记
 author: Ripples
 layout: post
+permalink: /sctf%e5%b0%8f%e8%ae%b0/
 views:
   - 593
 categories:

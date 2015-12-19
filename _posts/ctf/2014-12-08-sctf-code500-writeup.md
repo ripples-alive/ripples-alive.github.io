@@ -2,6 +2,7 @@
 title: SCTF Code500 WriteUp
 author: Ripples
 layout: post
+permalink: /sctf-code500-writeup/
 views:
   - 514
 categories:

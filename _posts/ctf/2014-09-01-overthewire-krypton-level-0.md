@@ -2,6 +2,7 @@
 title: OverTheWire Krypton Level 0
 author: Ripples
 layout: post
+permalink: /overthewire-krypton-level-0/
 views:
   - 297
 categories:

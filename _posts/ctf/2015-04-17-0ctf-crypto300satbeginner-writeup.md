@@ -2,6 +2,7 @@
 title: 0CTF Crypto300(SATBeginner) WriteUp
 author: Ripples
 layout: post
+permalink: /0ctf-crypto300satbeginner-writeup/
 views:
   - 215
 categories:
