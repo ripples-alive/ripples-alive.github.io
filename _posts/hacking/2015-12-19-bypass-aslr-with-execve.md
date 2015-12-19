@@ -19,11 +19,11 @@ tags: [ASLR, execve]
 最后，几经波折，找到了这么[一篇 blackhat 上的文章](https://www.blackhat.com/presentations/bh-europe-09/Fritsch/Blackhat-Europe-2009-Fritsch-Bypassing-aslr-whitepaper.pdf)，才解开了疑惑。
 文章中主要是具体讲了 ASLR 的部分可预测性，与我们这里关系不太大，我们这里主要是因为其中提到的一点：
 
-<p id="read-more-anchor"/>
-
 ```
 If an attacker manages to call execve(2) with his desired target process within one jiffy (i.e. 4ms) after his process was launched, then the output of the prf function will be the same since neither pid p nor jiffies j changed. The secret s did not change either and would most likely also not change if re-keying was in fact every second. Thus the target process will use the very same randomization.
 ```
+
+<p id="read-more-anchor"/>
 
 也就是说，在 one jiffy (i.e. 4ms) 的时间内，ASLR 出来的值是固定的，那么我们只要是在 4ms 内 execve 到新程序上的，那么我们之前读取到的栈地址就是正确的地址。
 感觉不得不说，这简直是神器啊，就读个地址就可以 execve 了，4ms 简直就是绰绰有余，破 ASLR 不解释啊。
