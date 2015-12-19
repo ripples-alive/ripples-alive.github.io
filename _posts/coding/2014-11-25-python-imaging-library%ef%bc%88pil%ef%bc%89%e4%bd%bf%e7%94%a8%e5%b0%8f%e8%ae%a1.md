@@ -2,6 +2,7 @@
 title: Python Imaging Library（PIL）使用小计
 author: Ripples
 layout: post
+permalink: /2014/11/25/python-imaging-library%ef%bc%88pil%ef%bc%89%e4%bd%bf%e7%94%a8%e5%b0%8f%e8%ae%a1/
 views:
   - 353
 categories:

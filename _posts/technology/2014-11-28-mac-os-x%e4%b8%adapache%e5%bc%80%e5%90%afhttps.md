@@ -2,6 +2,7 @@
 title: Mac OS X中Apache开启HTTPS
 author: Ripples
 layout: post
+permalink: /2014/11/28/mac-os-x%e4%b8%adapache%e5%bc%80%e5%90%afhttps/
 views:
   - 1231
 categories:

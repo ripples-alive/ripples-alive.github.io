@@ -2,6 +2,7 @@
 title: WordPress for SAE 使用 Memcache
 author: Ripples
 layout: post
+permalink: /2014/08/17/wordpress-for-sae%e4%bd%bf%e7%94%a8memcache/
 views:
   - 1024
 categories:

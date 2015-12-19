@@ -2,6 +2,7 @@
 title: 操作系统实验小记
 author: Ripples
 layout: post
+permalink: /2014/09/26/%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e5%ae%9e%e9%aa%8c%e5%b0%8f%e8%ae%b0/
 views:
   - 404
 categories:

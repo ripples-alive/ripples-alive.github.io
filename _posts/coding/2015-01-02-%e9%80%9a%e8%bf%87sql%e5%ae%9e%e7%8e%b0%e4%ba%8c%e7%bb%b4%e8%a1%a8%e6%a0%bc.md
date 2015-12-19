@@ -2,6 +2,7 @@
 title: 通过SQL实现二维表格
 author: Ripples
 layout: post
+permalink: /2015/01/02/%e9%80%9a%e8%bf%87sql%e5%ae%9e%e7%8e%b0%e4%ba%8c%e7%bb%b4%e8%a1%a8%e6%a0%bc/
 views:
   - 300
 categories:

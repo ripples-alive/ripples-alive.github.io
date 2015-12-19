@@ -2,6 +2,7 @@
 title: pyftpdlib架设FTPS（FTP over SSL）服务器
 author: Ripples
 layout: post
+permalink: /2014/11/28/pyftpdlib%e6%9e%b6%e8%ae%beftps%ef%bc%88ftp-over-ssl%ef%bc%89%e6%9c%8d%e5%8a%a1%e5%99%a8/
 views:
   - 522
 categories:

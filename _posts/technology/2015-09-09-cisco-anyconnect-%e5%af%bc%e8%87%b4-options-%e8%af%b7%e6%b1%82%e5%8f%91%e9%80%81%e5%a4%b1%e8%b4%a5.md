@@ -2,6 +2,7 @@
 title: Cisco AnyConnect 导致 OPTIONS 请求发送失败
 author: Ripples
 layout: post
+permalink: /2015/09/09/cisco-anyconnect-%e5%af%bc%e8%87%b4-options-%e8%af%b7%e6%b1%82%e5%8f%91%e9%80%81%e5%a4%b1%e8%b4%a5/
 views:
   - 231
 categories:

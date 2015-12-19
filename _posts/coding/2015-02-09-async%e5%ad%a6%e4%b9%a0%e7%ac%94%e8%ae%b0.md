@@ -2,6 +2,7 @@
 title: async学习笔记
 author: Ripples
 layout: post
+permalink: /2015/02/09/async%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/
 views:
   - 387
 categories:
