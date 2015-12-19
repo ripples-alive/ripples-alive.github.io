@@ -19,9 +19,7 @@ tags: [ASLR, execve]
 最后，几经波折，找到了这么[一篇 blackhat 上的文章](https://www.blackhat.com/presentations/bh-europe-09/Fritsch/Blackhat-Europe-2009-Fritsch-Bypassing-aslr-whitepaper.pdf)，才解开了疑惑。
 文章中主要是具体讲了 ASLR 的部分可预测性，与我们这里关系不太大，我们这里主要是因为其中提到的一点：
 
-```
-If an attacker manages to call execve(2) with his desired target process within one jiffy (i.e. 4ms) after his process was launched, then the output of the prf function will be the same since neither pid p nor jiffies j changed. The secret s did not change either and would most likely also not change if re-keying was in fact every second. Thus the target process will use the very same randomization.
-```
+> If an attacker manages to call execve(2) with his desired target process within one jiffy (i.e. 4ms) after his process was launched, then the output of the prf function will be the same since neither pid p nor jiffies j changed. The secret s did not change either and would most likely also not change if re-keying was in fact every second. Thus the target process will use the very same randomization.
 
 <p id="read-more-anchor"/>
 
