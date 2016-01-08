@@ -314,4 +314,4 @@ VLAN 配置的话，首先在 Network 的 Switch 里面新建一个 VLAN：
 
 折腾完成后，不得不说用起来真是爽 `*\(^o^)/*`，电脑上所有翻墙全关，一样享受美好新世界～～～
 
-最后附上折腾中用的一些文件：[配置文件](/attachments/2015/11/21/conf.zip)
+最后附上折腾中用的一些文件：[配置文件](/attachments/2015/11/21/conf)、[ipk](/attachments/2015/11/21/software)

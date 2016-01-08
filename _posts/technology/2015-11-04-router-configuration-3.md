@@ -44,3 +44,5 @@ iptables -t nat -A SHADOWSOCKS -m set --match-set china_list dst -j RETURN
 ```
 
 弄好后重启，也不知道是不是心理作用，就是感觉跑的飞快～～～
+
+最后附上我下的 [ipk](/attachments/2016/01/07/pptpd_1.4.0-2_ar71xx.ipk)
