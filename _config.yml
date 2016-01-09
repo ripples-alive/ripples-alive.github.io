@@ -44,6 +44,9 @@ redcarpet:
 gems:
     - jekyll-sitemap
     - jekyll-paginate
+    - jekyll-mentions
+    - jekyll-feed
+    - jemoji
 sass:
     sass_dir: _sass
     style: compressed
