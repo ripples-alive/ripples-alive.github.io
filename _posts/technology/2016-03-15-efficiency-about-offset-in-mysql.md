@@ -25,6 +25,8 @@ SELECT * FROM documents ORDER BY id LIMIT ?, 1
 看查询分析也会发现，里面显示的行数也跟 offset 有关，看来真的就是 offset 不会快速跳过，还是会一个个的扫过来，想想真是恐怖。
 虽然不知道为什么会设计成这样，讲道理 B tree 索引应该有能力直接找到第 N 大的元素啊。
 
+<p id="read-more-anchor"/>
+
 不过既然 offset 慢是既定事实，那么我们还是想想应该怎么优化吧。如果纯粹是针对这句语句的话，可以改成：
 
 ```sql
