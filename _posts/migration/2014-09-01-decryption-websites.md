@@ -2,7 +2,7 @@
 title: 解密辅助网站
 author: Ripples
 layout: post
-permalink: /%e8%a7%a3%e5%af%86%e8%be%85%e5%8a%a9%e7%bd%91%e7%ab%99/
+permalink: /解密辅助网站/
 views:
   - 338
 categories:

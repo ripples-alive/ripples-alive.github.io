@@ -2,7 +2,7 @@
 title: 'NCTU UBC crackme #1 解题报告'
 author: Ripples
 layout: post
-permalink: /nctu-ubc-crackme-1-%e8%a7%a3%e9%a2%98%e6%8a%a5%e5%91%8a/
+permalink: /nctu-ubc-crackme-1-解题报告/
 views:
   - 369
 categories:

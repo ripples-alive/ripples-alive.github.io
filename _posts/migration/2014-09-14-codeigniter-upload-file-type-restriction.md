@@ -2,7 +2,7 @@
 title: CodeIgniter 上传文件类型限制的问题
 author: Ripples
 layout: post
-permalink: /codeigniter%e4%b8%8a%e4%bc%a0%e6%96%87%e4%bb%b6%e7%b1%bb%e5%9e%8b%e9%99%90%e5%88%b6%e7%9a%84%e9%97%ae%e9%a2%98/
+permalink: /codeigniter上传文件类型限制的问题/
 views:
   - 321
 categories:

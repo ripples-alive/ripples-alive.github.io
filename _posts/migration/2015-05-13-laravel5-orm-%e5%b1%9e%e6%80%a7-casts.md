@@ -2,7 +2,7 @@
 title: Laravel5 ORM 属性 Casts
 author: Ripples
 layout: post
-permalink: /laravel5-orm-%e5%b1%9e%e6%80%a7-casts/
+permalink: /laravel5-orm-属性-casts/
 views:
   - 333
 categories:

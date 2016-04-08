@@ -2,7 +2,7 @@
 title: shadow文件中密码的加密方式（转载）
 author: Ripples
 layout: post
-permalink: /shadow%e6%96%87%e4%bb%b6%e4%b8%ad%e5%af%86%e7%a0%81%e7%9a%84%e5%8a%a0%e5%af%86%e6%96%b9%e5%bc%8f%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+permalink: /shadow文件中密码的加密方式（转载）/
 views:
   - 341
 categories:

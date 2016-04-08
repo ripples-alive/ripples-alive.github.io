@@ -2,7 +2,7 @@
 title: Unix-like 系统的文件权限（转载）
 author: Ripples
 layout: post
-permalink: /unix-like%e7%b3%bb%e7%bb%9f%e7%9a%84%e6%96%87%e4%bb%b6%e6%9d%83%e9%99%90%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+permalink: /unix-like系统的文件权限（转载）/
 views:
   - 442
 categories:

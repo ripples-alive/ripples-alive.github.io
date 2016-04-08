@@ -2,7 +2,7 @@
 title: DEF CON 小记
 author: Ripples
 layout: post
-permalink: /def-con-%e5%b0%8f%e8%ae%b0/
+permalink: /def-con-小记/
 views:
   - 275
 categories:

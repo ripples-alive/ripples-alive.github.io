@@ -2,7 +2,7 @@
 title: bash代码注入的安全漏洞（转载）
 author: Ripples
 layout: post
-permalink: /bash%e4%bb%a3%e7%a0%81%e6%b3%a8%e5%85%a5%e7%9a%84%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e%ef%bc%88%e8%bd%ac%e8%bd%bd%ef%bc%89/
+permalink: /bash代码注入的安全漏洞（转载）/
 views:
   - 324
 categories:

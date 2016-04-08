@@ -2,7 +2,7 @@
 title: 在 SAE 上架设代理
 author: Ripples
 layout: post
-permalink: /%e5%9c%a8sae%e4%b8%8a%e6%9e%b6%e8%ae%be%e4%bb%a3%e7%90%86/
+permalink: /在sae上架设代理/
 views:
   - 1068
 categories:

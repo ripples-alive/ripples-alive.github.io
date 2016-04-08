@@ -2,7 +2,7 @@
 title: WordPress for SAE 使用七牛CDN加速
 author: Ripples
 layout: post
-permalink: /wordpress-for-sae%e4%bd%bf%e7%94%a8%e4%b8%83%e7%89%9bcdn%e5%8a%a0%e9%80%9f/
+permalink: /wordpress-for-sae使用七牛cdn加速/
 views:
   - 2250
 categories:

@@ -2,7 +2,7 @@
 title: 中软吉大•问鼎杯决赛样题密码类（二）
 author: Ripples
 layout: post
-permalink: /%e4%b8%ad%e8%bd%af%e5%90%89%e5%a4%a7%e2%80%a2%e9%97%ae%e9%bc%8e%e6%9d%af%e5%86%b3%e8%b5%9b%e6%a0%b7%e9%a2%98%e5%af%86%e7%a0%81%e7%b1%bb/
+permalink: /中软吉大•问鼎杯决赛样题密码类/
 views:
   - 631
 categories:

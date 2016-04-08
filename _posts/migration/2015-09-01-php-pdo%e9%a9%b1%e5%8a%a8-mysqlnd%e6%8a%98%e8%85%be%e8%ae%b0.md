@@ -2,7 +2,7 @@
 title: php PDO驱动 mysqlnd折腾记
 author: Ripples
 layout: post
-permalink: /php-pdo%e9%a9%b1%e5%8a%a8-mysqlnd%e6%8a%98%e8%85%be%e8%ae%b0/
+permalink: /php-pdo驱动-mysqlnd折腾记/
 views:
   - 166
 categories:

@@ -2,7 +2,7 @@
 title: 中软吉大•问鼎杯决赛小感
 author: Ripples
 layout: post
-permalink: /%e4%b8%ad%e8%bd%af%e5%90%89%e5%a4%a7%e2%80%a2%e9%97%ae%e9%bc%8e%e6%9d%af%e5%86%b3%e8%b5%9b%e5%b0%8f%e6%84%9f/
+permalink: /中软吉大•问鼎杯决赛小感/
 views:
   - 547
 categories:

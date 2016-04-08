@@ -2,7 +2,7 @@
 title: 'BCTF&#038;0CTF小记'
 author: Ripples
 layout: post
-permalink: /bctf0ctf%e5%b0%8f%e8%ae%b0/
+permalink: /bctf0ctf小记/
 views:
   - 375
 categories:
