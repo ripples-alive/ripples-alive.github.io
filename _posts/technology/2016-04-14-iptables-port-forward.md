@@ -8,10 +8,8 @@ tags: [iptables, forward]
 date: 2016-04-14T13:24:31+08:00
 ---
 
+* ToC
 {:toc}
-
--   原文：<http://wwdhks.blog.51cto.com/839773/1154032>
--   本文作者：张天成 zhangtiancheng\#gmail.com 转发请注明出处。
 
 iptables是一个Linux下优秀的nat+防火墙工具，我使用该工具以较低配置的传统pc配置了一个灵活强劲的防火墙+nat系统,小有心得，看了网上也有很多这方面的文章，但是似乎要么说的比较少，要么就是比较偏，内容不全，容易误导，我研究了一段时间的iptables同时也用了很久，有点滴经验，写来供大家参考，同时也备日后自己翻阅。
 
@@ -363,3 +361,7 @@ server比较不爽的话，iptables
 
     iptables -t nat -A PREROUTING -d 111.**.**.219 -p tcp --dport 9999 -j DNAT --to-destination 192.168.0.41:9999
     iptables -t nat -A POSTROUTING -d 192.168.0.41 -p tcp --dport 9999 -j SNAT --to-source 192.168.0.219
+
+
+-   原文：<http://wwdhks.blog.51cto.com/839773/1154032>
+-   本文作者：张天成 zhangtiancheng\#gmail.com 转发请注明出处。
