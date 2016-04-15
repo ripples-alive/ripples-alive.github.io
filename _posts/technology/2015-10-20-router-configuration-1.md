@@ -315,3 +315,7 @@ VLAN 配置的话，首先在 Network 的 Switch 里面新建一个 VLAN：
 折腾完成后，不得不说用起来真是爽 `*\(^o^)/*`，电脑上所有翻墙全关，一样享受美好新世界～～～
 
 最后附上折腾中用的一些文件：[配置文件](/attachments/2015/11/21/conf.zip)、[ipk](/attachments/2015/11/21/software.zip)
+
+----------------------------------------
+
+2016-04-15 UPDATE: 之前配置好之后，路由本身是不翻墙的，这样在路由上面做些操作的时候会比较坑，可以加上一句 `iptables -t nat -A OUTPUT -p tcp -j SHADOWSOCKS`，就可以把为路由器本身的请求也翻墙了。关于 iptables 的使用，可以参见[这篇文章](/articles/2016/04/14/iptables-port-forward/)。
