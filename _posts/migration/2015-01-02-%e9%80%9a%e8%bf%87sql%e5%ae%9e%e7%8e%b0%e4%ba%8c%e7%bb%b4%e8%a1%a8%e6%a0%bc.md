@@ -174,11 +174,13 @@ tags:
   然后，我们可以通过订单状态和这个表的id字段做连接，此时，当我们count(one)的时候，就会得到订单状态为1的记录数，因为count是不会将NULL的行算上的。类似的，我们需要状态为几的订单，就可以在这个辅助表中加上对应的记录即可，最终得到SQL形式如下：
 </p>
 
-<pre class="brush:sql;toolbar:false">SELECT `date`, COUNT(`one`) AS `state1`, COUNT(`two`) AS `state2`
+```sql
+SELECT `date`, COUNT(`one`) AS `state1`, COUNT(`two`) AS `state2`
 FROM `order` JOIN `assistant` ON `order`.`state` = `assistant`.`id`
 GROUP BY `date`
-ORDER BY `date` DESC</pre>
+ORDER BY `date` DESC
+```
 
 <p style="text-align: left; text-indent: 2em;">
-  通过这样一种方式，我们不仅极大的降低了SQL语句的复杂程度，更是使得运行效率得到了提升，毕竟和一个如此下的表做连接，代价是很低的。
+  通过这样一种方式，我们不仅极大的降低了SQL语句的复杂程度，更是使得运行效率得到了提升，毕竟和一个如此小的表做连接，代价是很低的。
 </p>
