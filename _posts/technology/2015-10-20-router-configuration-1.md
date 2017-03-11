@@ -199,7 +199,7 @@ service_start /root/bin/ss-in -c /root/etc/in.json -u
 service_start /root/bin/ss-out -c /root/etc/out.json -u
 ```
 
-ss-in 和 ss-out 都是 ss-server 的软链接。
+ss-in 和 ss-out 都是 ss-redir 的软链接。
 
 然后新建脚本 `/root/bin/ss-firewall` 来设置 iptables 转发规则：
 
