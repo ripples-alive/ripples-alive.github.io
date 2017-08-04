@@ -67,14 +67,17 @@ kramdown:
     footnote_nr: 1
     entity_output: as_char
     toc_levels: 1..6
-    enable_coderay: false
+    syntax_highlighter: rouge
 
-    coderay:
-        coderay_line_numbers: nil
-        coderay_line_numbers_start: 1
-        coderay_tab_width: 4
-        coderay_bold_every: 10
-        coderay_css: class
+    syntax_highlighter_opts:
+        tab_width: 4
+        bold_every: 10
+        css_class: 'highlight'
+        span:
+            line_numbers: false
+        block:
+            line_numbers: true
+            start_line: 1
 
 # Octopress
 # Default extensions
