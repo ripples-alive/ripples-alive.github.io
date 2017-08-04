@@ -2,6 +2,17 @@ pre.highlight {
 	padding: 1em;
 }
 
+.highlight pre {
+    padding: 0.5em;
+	overflow-x: auto;
+}
+
+.highlight td.code {
+	table-layout:fixed;
+	width: 100%;
+	display: table;
+}
+
 .highlight {
 	margin-bottom: 1.5em;
 	@include font-rem(12);
